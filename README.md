@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%24+whoami+%E2%86%92+Security+Researcher;%24+nmap+-sV+-A+target.host;%24+cat+%2Fetc%2Fshadow+%7C+hashcat+--force;%24+echo+Hack+the+Planet;%24+git+commit+-m+%22fix%3A+patched+CVE-2024-XXXX%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%24+whoami+%E2%86%92+Security+Researcher;%24+nmap+-sV+-A+target.host;%24+cat+%2Fetc%2Fshadow+%7C+hashcat+--force;%24+echo+Hack+the+Planet;%24+git+commit+-m+fix%3A+patched+CVE-2024-XXXX" alt="Typing SVG" />
 </a>
 </p>
 
@@ -111,7 +111,7 @@ echo "[OK] System ready. Stay curious. Stay dangerous."
 ## `$ cat /proc/trophy`
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mrwhok&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=6" />
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=mrwhok&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=6" />
 </p>
 
 ---
