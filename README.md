@@ -75,14 +75,6 @@
 
 ---
 
-## `$ cat /proc/trophy`
-
-<p align="center">
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=mrwhok&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=6" />
-</p>
-
----
-
 ## `$ ping -c 1 aydin.social`
 
 <p align="center">
