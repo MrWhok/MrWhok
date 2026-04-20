@@ -18,39 +18,6 @@
 
 ---
 
-## `$ cat /etc/profile.d/aydin.sh`
-
-```bash
-#!/bin/bash
-# ============================================================
-#   USER     : Rafif Aydin Ahmad
-#   ROLE     : Security Researcher | Linux Enthusiast
-#   LOCATION : Indonesia
-#   SHELL    : /bin/zsh
-#   UPTIME   : Always online, always learning...
-# ============================================================
-
-declare -a SKILLS=(
-    "Penetration Testing"
-    "CTF Challenges"
-    "Reverse Engineering"
-    "Network Analysis"
-    "Linux Systems"
-    "Exploit Development"
-)
-
-CURRENT_MISSION="Sharpening offensive security skills"
-MANTRA="The quieter you become, the more you hear."
-
-echo "[+] Identity loaded: Rafif Aydin Ahmad"
-echo "[+] Mission: $CURRENT_MISSION"
-echo "[+] Mantra:  $MANTRA"
-echo "[*] Skills: ${SKILLS[*]}"
-echo "[OK] System ready. Stay curious. Stay dangerous."
-```
-
----
-
 ## `$ ls -la ~/arsenal/`
 
 **Offensive Security**
