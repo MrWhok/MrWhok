@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated hacker-style header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d2137&height=220&section=header&text=%5B%20RAFIF%20AYDIN%20AHMAD%20%5D&fontSize=44&fontColor=00ff41&animation=blinking&fontAlignY=38&desc=%24%20whoami%20%7C%20Security%20Researcher%20%26%20Linux%20Enthusiast&descAlignY=58&descColor=39d353" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:0a1628,100:0d2137&amp;height=220&amp;section=header&amp;text=%5B%20RAFIF%20AYDIN%20AHMAD%20%5D&amp;fontSize=44&amp;fontColor=00ff41&amp;animation=blinking&amp;fontAlignY=38&amp;desc=%24%20whoami%20%7C%20Security%20Researcher%20%26%20Linux%20Enthusiast&amp;descAlignY=58&amp;descColor=39d353" />
 
 <!-- Typing animation — terminal hacker style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Security+Researcher+%26+Linux+Hacker;%24+nmap+-sV+-A+target.host;%24+cat+%2Fetc%2Fshadow+%7C+hashcat+--force;%24+sudo+rm+-rf+%2F--no-preserve-root+%5Bjk%5D;%24+echo+%22Hack+the+Planet+%F0%9F%8C%8D%22;%24+git+commit+-m+%22fix%3A+patched+CVE-2024-XXXX%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%24+whoami+%E2%86%92+Security+Researcher;%24+nmap+-sV+-A+target.host;%24+cat+%2Fetc%2Fshadow+%7C+hashcat+--force;%24+echo+Hack+the+Planet;%24+git+commit+-m+fix%3A+patched+CVE-2024-XXXX" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mrwhok&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mrwhok&amp;style=for-the-badge&amp;color=00ff41&amp;labelColor=0d0d0d&amp;label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/mrwhok?style=for-the-badge&color=00ff41&labelColor=0d0d0d&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/mrwhok?style=for-the-badge&amp;color=00ff41&amp;labelColor=0d0d0d&amp;logo=github&amp;label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&amp;labelColor=0d0d0d" />
 </p>
 
 </div>
@@ -47,7 +47,7 @@
 # ============================================================
 #   USER     : Rafif Aydin Ahmad
 #   ROLE     : Security Researcher | Linux Enthusiast
-#   LOCATION : Indonesia 🇮🇩
+#   LOCATION : Indonesia
 #   SHELL    : /bin/zsh
 #   UPTIME   : Always online, always learning...
 # ============================================================
@@ -61,16 +61,14 @@ declare -a SKILLS=(
     "Exploit Development"
 )
 
-CURRENT_MISSION="Sharpening offensive security skills & \
-                 contributing to open source tools"
-
+CURRENT_MISSION="Sharpening offensive security skills & contributing to open source"
 MANTRA="The quieter you become, the more you hear."
 
 echo "[+] Identity loaded: Rafif Aydin Ahmad"
 echo "[+] Mission: $CURRENT_MISSION"
 echo "[+] Mantra:  $MANTRA"
 echo "[*] Skills: ${SKILLS[*]}"
-echo "[✓] System ready. Stay curious. Stay dangerous."
+echo "[OK] System ready. Stay curious. Stay dangerous."
 ```
 
 ---
@@ -81,63 +79,46 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
 
 ### 🔴 Offensive Security
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" />
 </p>
 
 ### 🐧 Linux & Systems
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&amp;logo=vim&amp;logoColor=white" />
 </p>
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## `$ cat ~/ctf/achievements.log`
+## GitHub Stats
 
 <div align="center">
-
-| 🏁 Category | 📌 Focus Areas |
-|---|---|
-| 🌐 Web Exploitation | SQL Injection, XSS, SSRF, IDOR, Auth Bypass |
-| 🔬 Reverse Engineering | ELF Binaries, x86/x64 ASM, GDB, Ghidra |
-| 💣 Binary Exploitation | Buffer Overflow, ROP Chains, Heap Pwn |
-| 🕵️ OSINT | Reconnaissance, Footprinting, Social Engineering |
-| 🔐 Cryptography | RSA, AES, Hash Cracking, Custom Ciphers |
-| 🐧 Linux Privesc | SUID, Cron Jobs, Kernel Exploits, Sudo Misconfig |
-
-</div>
-
----
-
-## `$ htop --user=mrwhok` — GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrwhok&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=39d353&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrwhok&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=00ff41&amp;icon_color=00cc33&amp;text_color=39d353&amp;include_all_commits=true&amp;count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhok&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39d353&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhok&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=00ff41&amp;text_color=39d353&amp;langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwhok&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=39d353&dates=39d353&sideNums=00ff41&currStreakNum=00ff41" />
+  <img width="520" src="https://streak-stats.demolab.com?user=mrwhok&amp;theme=matrix&amp;hide_border=true&amp;background=0d0d0d&amp;ring=00ff41&amp;fire=00cc33&amp;currStreakLabel=00ff41&amp;sideLabels=39d353&amp;dates=39d353&amp;sideNums=00ff41&amp;currStreakNum=00ff41" />
 </div>
 
 ---
@@ -145,7 +126,7 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
 ## `$ tail -f ~/logs/activity.log`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhok&bg_color=0d0d0d&color=00ff41&line=00cc33&point=00ff41&area=true&area_color=003300&hide_border=true&custom_title=Commit%20Activity%20Log" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhok&amp;bg_color=0d0d0d&amp;color=00ff41&amp;line=00cc33&amp;point=00ff41&amp;area=true&amp;area_color=003300&amp;hide_border=true&amp;custom_title=Commit%20Activity%20Log" />
 </div>
 
 ---
@@ -153,7 +134,7 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
 ## `$ cat /proc/trophy`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrwhok&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrwhok&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=6&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
@@ -162,7 +143,7 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
 
 <div align="center">
   <a href="https://github.com/mrwhok">
-    <img src="https://img.shields.io/badge/GitHub-mrwhok-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d&color=00ff41" />
+    <img src="https://img.shields.io/badge/GitHub-mrwhok-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=00ff41&amp;labelColor=0d0d0d&amp;color=00ff41" />
   </a>
 </div>
 
@@ -170,10 +151,11 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
 
 <div align="center">
 
+<!-- Snake animation — paths must match what the workflow outputs to the `output` branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrwhok/mrwhok/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrwhok/mrwhok/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mrwhok/mrwhok/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mrwhok/mrwhok/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br/>
@@ -185,6 +167,6 @@ echo "[✓] System ready. Stay curious. Stay dangerous."
                      $ shutdown -h never   # always learning...
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a1628,100:0d0d0d&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d2137,50:0a1628,100:0d0d0d&amp;height=130&amp;section=footer" />
 
 </div>
